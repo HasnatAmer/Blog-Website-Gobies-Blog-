@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb71cda3-6693-4587-8c1a-043433d39063" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/www" afterPath="$PROJECT_DIR$/bin/www" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-    </list>
+    <list default="true" id="cb71cda3-6693-4587-8c1a-043433d39063" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -314,12 +311,12 @@
       <workItem from="1528147225338" duration="692000" />
       <workItem from="1528148061632" duration="993000" />
       <workItem from="1528155670602" duration="1691000" />
-      <workItem from="1528180292756" duration="3696000" />
+      <workItem from="1528180292756" duration="3903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192196000" />
+    <option name="totallyTimeSpent" value="192403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
