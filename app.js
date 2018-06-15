@@ -23,7 +23,7 @@ mongoose.Promise = global.Promise;
 //importing DB for
 var db = require('./config/database');
 // Connect to mongoose
-mongoose.connect('mongodb://HASNAT:123456789mmm@ds245150.mlab.com:45150/tests')
+mongoose.connect(db.mongoURI)
     .then(function() { console.log('MongoDB Connected...')})
     .catch(function( err ){ console.log(
         err)});
